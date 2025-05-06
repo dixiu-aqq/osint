@@ -1,0 +1,12 @@
+https://ti.360.cn/url/{domain}/
+https://ti.qianxin.com/v2/search?type=url&value={domain}/
+https://x.threatbook.com/v5/domain/{domain}
+https://ti.dbappsecurity.com.cn/domain/{domain}/
+https://www.antiycloud.com/#/search/domain?type=domain&key={domain}
+https://ti.rising.com.cn/search/domain/{domain}
+https://ti.duba.net/result-domain?host={domain}
+https://tix.qq.com/search/single?keyword={domain}&
+https://isecurity.huawei.com/security/service/intelligence/search?sv={domain}
+https://ti.hillstonenet.com.cn/mainreport?queryValue={domain}
+https://opentip.kaspersky.com/{domain}/?tab=lookup
+https://www.virustotal.com/gui/domain/{domain}
